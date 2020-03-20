@@ -1,0 +1,8 @@
+
+todo complete and debug read qgis layer.
+
+add feature to route rather than passing values.
+always doing this.
+
+make field widget?
+gets fields, handles saving selection. very reusable.
